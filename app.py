@@ -3,9 +3,9 @@ import matplotlib.pyplot as plt
 
 # Constants (1 drop = 5 ppm per 1L)
 PPM_PER_DROP = {
-    "Mg": 5,
+    "Mg": 8,
     "Ca": 5,
-    "KHCO3": 5,
+    "KHCO3": 8,
     "NaHCO3": 5
 }
 
